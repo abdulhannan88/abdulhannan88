@@ -1,15 +1,10 @@
-- 👋 Hi, I’m @abdulhannan88
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Abdul Hannan 
+- 👀 I’m interested in Economic and social analysis.
+- 🌱 I’m currently learning Python and SQL ...
+- 💞️ I’m looking to collaborate on any applied economic and social research project
+- 📫 How to reach me ...abdul.hannan@uon.edu.au
 
 <!---
 abdulhannan88/abdulhannan88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I’m Abdul Hannan
-I’m interested in Econometric analysis, ...
- I’m currently learning Python and SQL..
-I’m looking to collaborate on any empirical research project.
-you can contact me abdul.hannan@uon.edu.au
